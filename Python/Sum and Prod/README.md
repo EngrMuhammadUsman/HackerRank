@@ -55,6 +55,7 @@ Compute the sum along axis 0. Then, print the product of that sum.
 **Sample Output**
 
 `24`
+
 **Explanation**
 
 The sum along axis 0 = [4  6] 
